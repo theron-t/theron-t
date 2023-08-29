@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Theron</h1>
-<h3 align="center">A passionate backend developer from Hong Kong</h3>
+<h1 align="center">Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Theron</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theron-t&label=Profile%20views&color=0e75b6&style=flat" alt="theron-t" /> </p>
 
+- 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 I’m currently learning **ReactJS**
-
 - 📫 How to reach me **chilong.ca22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
